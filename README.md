@@ -18,8 +18,9 @@ Behavioral ALU: The Arithmetic Logic Unit (ALU) is modeled using behavioral mode
 
 Top module is named system at the end of MAIN.v.
 
-![Screenshot (2)](https://github.com/ram2k1/8BIT-CPU/assets/93393591/1bfcb6b1-601d-4289-84d4-414cc2a29029)
+![Screenshot (2)](https://github.com/ram2k1/8BIT-CPU/assets/93393591/e9ecc514-ad26-4c02-a84c-6e7995a087ae)
 Complete System
+
 ![Screenshot 2023-08-05 113900](https://github.com/ram2k1/8BIT-CPU/assets/93393591/97cd4362-c135-4c4f-8042-429a77926d45)
 Decoder providing control
 
